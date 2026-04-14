@@ -59,3 +59,7 @@ This is a list of requirements to remind me what I should implement.
      
 I might move things up and down from this list of requirements as I wish. If something else comes to mind I'll add it here.
 There's a lot of work to do, but it'll surely be fun.
+
+# AI disclaimer
+I’ll keep AI usage to a minimum.
+This project looks fun enough to build by hand, and doing it myself makes the whole process more enjoyable.
