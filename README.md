@@ -27,6 +27,7 @@ This is a list of requirements to remind me what I should implement.
   - [ ] From search result to player
 
 ## WILL HAVE - things that I will surely implement
+- [ ] Audio-only support
 - [ ] Comments support
   - [ ] Show current video's comments
 - [ ] Related videos support
